@@ -1,0 +1,8 @@
+index.html /usr/share/jet-stroam
+downloads /usr/share/jet-stroam
+images /usr/share/jet-stroam
+game.js /usr/share/jet-stroam
+game.css /usr/share/jet-stroam
+README.md /usr/share/doc/jet-stroam
+debian/jet-stroam.svg /usr/share/pixmaps
+debian/jet-stroam.desktop /usr/share/applications
